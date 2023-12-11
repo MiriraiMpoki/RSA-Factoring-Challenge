@@ -1,0 +1,9 @@
+[package]
+name = "factors-rs"
+version = "0.1.0"
+authors = ["MiriraiMpoki"]
+edition = "2023"
+
+[dependencies]
+rayon = "1.0"
+ramp = "0.5"

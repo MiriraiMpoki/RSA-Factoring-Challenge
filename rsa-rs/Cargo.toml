@@ -1,0 +1,8 @@
+[package]
+name = "rsa-rs"
+version = "0.1.0"
+authors = ["MiriraiMpoki"]
+edition = "2023"
+
+[dependencies]
+ramp = "0.5"
